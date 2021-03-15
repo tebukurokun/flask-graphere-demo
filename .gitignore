@@ -1,0 +1,4 @@
+.venv/
+.vscode/
+database.sqlite3
+Pipfile.lock
